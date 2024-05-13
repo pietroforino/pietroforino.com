@@ -1,0 +1,19 @@
+Sitemap: https://www.pietroforino.com/sitemap.xml
+
+User-agent: *
+Allow: /about.html
+Allow: /talk.html
+Allow: /partycles.html
+Allow: /index.html
+Allow: /micromort.html
+Allow: /mobile.html
+Allow: /hyperlab.html
+Allow: /whnc.html
+Allow: /movel.html
+Allow: /reficio.html
+Allow: /milano-design-district.html
+
+
+Disallow: /404.html
+Disallow: /license
+Disallow: /playme.svg
